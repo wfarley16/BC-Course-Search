@@ -1,0 +1,12 @@
+.my-modal {
+  position: center !important;
+  margin: 0 !important;
+  margin-left: -10% !important;
+  height: 80% !important;
+  width: 60% !important;
+  overflow-y: scroll !important;
+}
+
+.modal-grid {
+  margin-bottom: 10px !important;
+}

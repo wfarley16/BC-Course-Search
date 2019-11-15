@@ -1,0 +1,32 @@
+.page {
+  width: 80%;
+  margin: 0 10%;
+  background: white;
+  min-height: 100vh;
+}
+
+.search-page {
+  margin-top: 2.5%;
+  height: 100%;
+  padding: 2.5% !important;
+}
+
+.search-experiences-wrapper {
+  display: inline-block;
+  width: 50%;
+  margin-left: 5%;
+  vertical-align: top;
+  text-align: center;
+}
+
+.search-experiences-wrapper > div > div  {
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 766px) {
+  .search-experiences-wrapper {
+    display: block !important;
+    width: 80% !important;
+    margin: 10px 10% !important;
+  }
+}

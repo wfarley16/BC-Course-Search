@@ -1,0 +1,26 @@
+.sidebar-wrapper {
+  display: inline-block;
+  padding: 10px;
+  width: 40%;
+  margin-left: 2.5%;
+  text-align: center;
+  background-color: white;
+  border: 1px solid #DEE2E6;
+  border-radius: 0.25rem;
+}
+
+.filter-input {
+  margin-top: 10px;
+}
+
+.filter-button {
+  margin: 10px auto !important;
+}
+
+@media only screen and (max-width: 766px) {
+  .sidebar-wrapper {
+    display: block !important;
+    width: 80% !important;
+    margin: 10px 10% !important;
+  }
+}

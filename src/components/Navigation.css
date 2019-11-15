@@ -1,0 +1,15 @@
+.nav-wrapper {
+  width: 100%;
+  text-align: center;
+  height: 250px;
+  background-image: url("https://www.bc.edu/content/bc-web/bcnews/campus-community/around-campus/BCPSA_2016/_jcr_content/news-banner/bannerImage.transform/banner-full/image.jpg");
+  background-size: cover;
+}
+
+.nav-header {
+  color: white !important;
+  padding-top: 100px !important;
+  font-size: 32px !important;
+  font-weight: bold !important;
+  z-index: 100 !important;
+}

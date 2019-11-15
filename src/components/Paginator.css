@@ -1,0 +1,26 @@
+.paginator-button {
+  display: inline-block;
+  background: none;
+  text-align: center;
+  color: black;
+  font-size: 20px;
+  line-height: 100%;
+}
+
+.paginator-label {
+  display: inline-block;
+  font-size: 20px;
+  line-height: 100%;
+  margin-bottom: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.paginator-wrapper {
+  width: 100%;
+}
+
+.paginator-container {
+  margin: 0 auto;
+  text-align: center;
+}

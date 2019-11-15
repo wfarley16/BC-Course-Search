@@ -1,0 +1,25 @@
+.review-wrapper {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.review-card {
+  padding: 2.5% !important;
+  width: 100% !important;
+  margin: 0 !important;
+  margin-top: 10px !important;
+}
+
+.review-header {
+  font-size: 24px !important;
+}
+
+.review-input {
+  border-radius: .28571429rem !important;
+  border-color: initial !important;
+  box-shadow: 0 1px 3px 0 #d4d4d5, 0 0 0 1px #d4d4d5;
+  width: 100% !important;
+  padding: 2.5% !important;
+  margin: 0 !important;
+  margin-top: 10px !important;
+}
